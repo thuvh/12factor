@@ -1,13 +1,12 @@
-## III. Config
-### Store config in the environment
+## III. Cấu hình
+### Lưu trữ cấu hình trong môi trường
 
-An app's *config* is everything that is likely to vary between [deploys](./codebase) (staging, production, developer environments, etc).  This includes:
+Cấu hình của ứng dụng là những thứ có thể thay đổi qua các [triển khai](./codebase) (hệ thống thử, hệ thống sản xuất, môi trường phát triển, etc). Nó bao gồm:
+* Tài nguyên xử lý cơ sở dữ liệu, Memcached, và [dịch vụ lớp dưới](./backing-services) khác
+* Thông tin đăng nhập đến các dịch vụ như là Amazon S3 hay Twitter
+* Các giá trị ứng với từng triển khai như như là tên của máy chủ để triển khai
 
-* Resource handles to the database, Memcached, and other [backing services](./backing-services)
-* Credentials to external services such as Amazon S3 or Twitter
-* Per-deploy values such as the canonical hostname for the deploy
-
-Apps sometimes store config as constants in the code.  This is a violation of twelve-factor, which requires **strict separation of config from code**.  Config varies substantially across deploys, code does not.
+Các ứng dụng thường lưu trữ các cấu hình như là hằng số trong mã nguồn. Điều này không phù hợp với nguyên tắc của 12-thừa số, yêu cầu **giới hạn tách biệt các cấu hình khỏi mã nguồn**. Các cấu hình thay đổi qua các triển khai, mã nguồn thì không.
 
 A litmus test for whether an app has all config correctly factored out of the code is whether the codebase could be made open source at any moment, without compromising any credentials.
 

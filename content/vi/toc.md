@@ -4,8 +4,8 @@
 ## [I. Mã gốc](./codebase)
 ### Một mã gốc được theo dõi với hệ thống quản lý phiên bản, và nhiều lần triển khai
 
-## [II. Dependencies](./dependencies)
-### Explicitly declare and isolate dependencies
+## [II. Các phụ thuộc](./dependencies)
+### Khai báo rõ ràng và phân tách các phụ thuộc
 
 ## [III. Config](./config)
 ### Store config in the environment
