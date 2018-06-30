@@ -3,7 +3,7 @@ Giới thiệu
 
 Trong thời buổi hiện nay, phần mềm thường được chuyển giao như là một dịch vụ: còn được
 gọi là *các ứng dụng web*, hay *phần mềm-như-một-dịch vụ (software-as-a-service)*.
-Ứng dụng 12-hệ số là một phương pháp để xẩy dựng các ứng dụng phần mềm-như-một-dịch vụ với
+Ứng dụng 12-hệ số là một phương pháp để xây dựng các ứng dụng phần mềm-như-một-dịch vụ với
 các tiêu chí sau:
 
 * Sử dụng các định dạng theo kiểu **tường thuật** cho việc thiết lập tự động hoá, để
