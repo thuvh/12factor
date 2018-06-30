@@ -7,8 +7,8 @@
 ## [II. Các phụ thuộc](./dependencies)
 ### Khai báo rõ ràng và phân tách các phụ thuộc
 
-## [III. Config](./config)
-### Store config in the environment
+## [III. Cấu hình](./config)
+### Lưu trữ cấu hình trong môi trường
 
 ## [IV. Backing Services](./backing-services)
 ### Treat backing services as attached resources
