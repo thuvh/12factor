@@ -10,8 +10,8 @@
 ## [III. Cấu hình](./config)
 ### Lưu trữ cấu hình trong môi trường
 
-## [IV. Backing Services](./backing-services)
-### Treat backing services as attached resources
+## [IV. Dịch vụ hỗ trợ](./backing-services)
+### Dịch vụ hỗ trợ như là tài nguyên bổ xung
 
 ## [V. Build, release, run](./build-release-run)
 ### Strictly separate build and run stages
