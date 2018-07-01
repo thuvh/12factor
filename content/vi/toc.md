@@ -16,8 +16,8 @@
 ## [V. Xây dựng, phát hành, vận hành](./build-release-run)
 ### Tách biệt hoàn toàn giữa bước xây dựng và vận hành
 
-## [VI. Processes](./processes)
-### Execute the app as one or more stateless processes
+## [VI. Tiến trình](./processes)
+### Vận hành ứng dụng như là một hoặc nhiều tiến trình phi trạng thái 
 
 ## [VII. Port binding](./port-binding)
 ### Export services via port binding
