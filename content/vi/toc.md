@@ -13,8 +13,8 @@
 ## [IV. Dịch vụ hỗ trợ](./backing-services)
 ### Dịch vụ hỗ trợ như là tài nguyên bổ xung
 
-## [V. Build, release, run](./build-release-run)
-### Strictly separate build and run stages
+## [V. Xây dựng, phát hành, vận hành](./build-release-run)
+### Tách biệt hoàn toàn giữa bước xây dựng và vận hành
 
 ## [VI. Processes](./processes)
 ### Execute the app as one or more stateless processes
