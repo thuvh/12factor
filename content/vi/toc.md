@@ -19,11 +19,11 @@
 ## [VI. Tiến trình](./processes)
 ### Vận hành ứng dụng như là một hoặc nhiều tiến trình phi trạng thái 
 
-## [VII. Port binding](./port-binding)
-### Export services via port binding
+## [VII. Mở cổng mạng](./port-binding)
+### Cung cấp các dịch vụ thông qua công mạng
 
-## [VIII. Concurrency](./concurrency)
-### Scale out via the process model
+## [VIII. Đồng bộ](./concurrency)
+### Mở rộng theo chiều ngang thông qua mô hình tiến trình
 
 ## [IX. Disposability](./disposability)
 ### Maximize robustness with fast startup and graceful shutdown
