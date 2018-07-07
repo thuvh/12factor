@@ -25,14 +25,14 @@
 ## [VIII. Đồng bộ](./concurrency)
 ### Mở rộng theo chiều ngang thông qua mô hình tiến trình
 
-## [IX. Disposability](./disposability)
-### Maximize robustness with fast startup and graceful shutdown
+## [IX. Tính khả dụng](./disposability)
+### Tối ưu hoá với khởi động nhanh và dừng phần mềm ổn định
 
-## [X. Dev/prod parity](./dev-prod-parity)
-### Keep development, staging, and production as similar as possible
+## [X. Sự tương đồng giữa quá trình phát triển và vận hành thực tế](./dev-prod-parity)
+### Đảm bảo sự tương đồng giữa môi trường phát triển, kiểm thử và thực tế 
 
-## [XI. Logs](./logs)
-### Treat logs as event streams
+## [XI. Nhật ký](./logs)
+### Nhật ký là các luồng sự kiện
 
-## [XII. Admin processes](./admin-processes)
-### Run admin/management tasks as one-off processes
+## [XII. Tiến trình quản trị](./admin-processes)
+### Thực thi nhiệm vụ quản trị như là một tiến trình 
